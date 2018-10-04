@@ -3,14 +3,14 @@
 1) This is just stripe demo for recurring payment with different nature.
 2) You can use two types of methods for payment with card
 
--Yearly
+Yearly
 
-	for Example : One time payment needs to take $1000 for 1 year
+	For Example : One time payment needs to take $1000 for 1 year
 	
 	It will create one time charge of $1000 
 	
 	
-- Monthly
+Monthly
 
 	For Example: You have requirement like need to convert your yearly plan to monthly as different payment.
 	
