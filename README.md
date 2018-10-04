@@ -1,6 +1,6 @@
 # Stripe Recurring Payment 
 
-1) This is just stripe demo for recurring payment with different nature.
+1) This is Stripe demo for Recurring Payment with different nature.
 2) You can use two types of methods for payment with card
 
 Yearly
